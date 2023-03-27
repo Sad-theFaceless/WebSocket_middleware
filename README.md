@@ -8,6 +8,8 @@ POST version of Rayhan0x01's script: https://rayhan0x01.github.io/ctf/2021/04/02
 ```bash
 wget https://raw.githubusercontent.com/Sad-theFaceless/WebSocket_middleware/main/middleware.py && chmod +x middleware.py
 ```
+#### Dependencies
+- python3-websocket
 
 ## Usage
 Start the middleware server:
