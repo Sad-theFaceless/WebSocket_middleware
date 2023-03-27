@@ -9,7 +9,7 @@ POST version of Rayhan0x01's script: https://rayhan0x01.github.io/ctf/2021/04/02
 wget https://raw.githubusercontent.com/Sad-theFaceless/WebSocket_middleware/main/middleware.py && chmod +x middleware.py
 ```
 
-## How to use
+## Usage
 Start the middleware server:
 ```bash
 ./middleware.py $DOMAIN $PORT "$URL_PATH"
